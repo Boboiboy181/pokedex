@@ -1,7 +1,7 @@
-import { Text } from "react-native";
+import PokemonInfo from "../components/pokemon.component";
 
 const Home = () => {
-  return <Text>Home</Text>;
+  return <PokemonInfo />;
 };
 
 export default Home;
